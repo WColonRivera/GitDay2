@@ -7,4 +7,7 @@ public class DemoDay2 {
 		System.out.println("William");
 	}
 
+	system.out.println("new Project");
+
+}
 }
